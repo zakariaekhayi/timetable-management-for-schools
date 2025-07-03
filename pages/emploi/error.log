@@ -1,0 +1,144 @@
+2025-06-14 19:53:01 - Erreur save_changes: Données reçues: Array
+(
+    [0] => Array
+        (
+            [isNew] => 1
+            [moduleId] => 3
+            [niveau] => 1
+            [enseignant] => 2
+            [salle] => 1
+            [type] => cour
+            [jour] => Lundi
+            [heure] => 08:00
+        )
+
+    [1] => Array
+        (
+            [isNew] => 
+            [moduleId] => 3
+        )
+
+    [2] => Array
+        (
+            [isNew] => 
+            [moduleId] => 2
+        )
+
+    [3] => Array
+        (
+            [isNew] => 
+            [moduleId] => 5
+        )
+
+    [4] => Array
+        (
+            [isNew] => 
+            [moduleId] => 1
+        )
+
+    [5] => Array
+        (
+            [isNew] => 
+            [moduleId] => 4
+        )
+
+    [6] => Array
+        (
+            [isNew] => 
+            [moduleId] => 6
+        )
+
+)
+
+2025-06-14 19:53:01 - Erreur save_changes: Nouveau cours ajouté: Module 3, Niveau 1, Lundi à 08:00
+2025-06-14 19:53:01 - Erreur save_changes: Erreur lors de la sauvegarde: Jour et heure sont requis pour chaque changement
+2025-06-14 19:53:12 - Erreur save_changes: Données reçues: Array
+(
+    [0] => Array
+        (
+            [isNew] => 1
+            [moduleId] => 3
+            [niveau] => 1
+            [enseignant] => 2
+            [salle] => 1
+            [type] => cour
+            [jour] => Lundi
+            [heure] => 08:00
+        )
+
+    [1] => Array
+        (
+            [isNew] => 
+            [moduleId] => 3
+        )
+
+    [2] => Array
+        (
+            [isNew] => 
+            [moduleId] => 2
+        )
+
+    [3] => Array
+        (
+            [isNew] => 
+            [moduleId] => 5
+        )
+
+    [4] => Array
+        (
+            [isNew] => 
+            [moduleId] => 1
+        )
+
+    [5] => Array
+        (
+            [isNew] => 
+            [moduleId] => 4
+        )
+
+    [6] => Array
+        (
+            [isNew] => 
+            [moduleId] => 6
+        )
+
+)
+
+2025-06-14 19:53:12 - Erreur save_changes: Nouveau cours ajouté: Module 3, Niveau 1, Lundi à 08:00
+2025-06-14 19:53:12 - Erreur save_changes: Erreur lors de la sauvegarde: Jour et heure sont requis pour chaque changement
+2025-06-14 19:58:30 - Erreur save_changes: Données reçues: Array
+(
+    [0] => Array
+        (
+            [id] => new_1749923907806_f41bsf6xa
+            [isNew] => 1
+            [moduleId] => 3
+            [niveau] => 1
+            [enseignant] => 2
+            [salle] => 1
+            [type] => cour
+            [jour] => Lundi
+            [heure] => 08:00
+        )
+
+)
+
+2025-06-14 19:58:30 - Erreur save_changes: Nouveau cours ajouté: Module 3, Niveau 1, Lundi à 08:00
+2025-06-21 19:42:55 - Erreur save_changes: Données reçues: Array
+(
+    [0] => Array
+        (
+            [id] => new_1750527772316_ym88urliq
+            [isNew] => 1
+            [moduleId] => 3
+            [niveau] => 1
+            [enseignant] => 3
+            [salle] => 2
+            [type] => cour
+            [jour] => Lundi
+            [heure] => 08:00
+        )
+
+)
+
+2025-06-21 19:42:56 - Erreur save_changes: Nouveau cours ajouté: Module 3, Niveau 1, Lundi à 08:00
